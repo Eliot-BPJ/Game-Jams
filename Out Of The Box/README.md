@@ -15,9 +15,9 @@ This is a sandbox / escape game where the main goal is to escape by using everyt
 
 ## Credits
 
-Made by: Jamil Ettel
-	 Nathan Fromage
-	 Louis Deschanel
-	 Killian Herbreteau
-	 Tristan Bouillot
+Made by: Jamil Ettel,
+	 Nathan Fromage,
+	 Louis Deschanel,
+	 Killian Herbreteau,
+	 Tristan Bouillot,
 	 Eliot Boyer

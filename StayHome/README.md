@@ -15,9 +15,9 @@ The goal is (is there realy a goal ?...) to let your creativity do all the work 
 
 ## Credits
 
-Made by: Jamil Ettel
-	 Nathan Fromage
-	 Louis Deschanel
-	 Killian Herbreteau
-	 Tristan Bouillot
+Made by: Jamil Ettel,
+	 Nathan Fromage,
+	 Louis Deschanel,
+	 Killian Herbreteau,
+	 Tristan Bouillot,
 	 Eliot Boyer

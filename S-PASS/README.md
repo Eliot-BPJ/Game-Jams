@@ -17,9 +17,9 @@ This is a two player game, where the goal is to fight against your friend and to
 
 ## Credits
 
-Made by: Jamil Ettel
-	 Nathan Fromage
-	 Louis Deschanel
-	 Killian Herbreteau
-	 Tristan Bouillot
+Made by: Jamil Ettel,
+	 Nathan Fromage,
+	 Louis Deschanel,
+	 Killian Herbreteau,
+	 Tristan Bouillot,
 	 Eliot Boyer
