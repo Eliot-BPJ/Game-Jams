@@ -1,2 +1,2 @@
 # Game-Jams
-Differents games made for Game Jams with friends.
+Differents games made for Game Jams with friends, using UNITY.
